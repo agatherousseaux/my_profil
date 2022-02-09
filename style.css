@@ -1,0 +1,24 @@
+h1{
+	font-family: 'Poppins', sans-serif;
+	color: 1A374D;
+	size: 10px
+}
+body{
+	background-color: 6998AB ;
+	font-family: 'Raleway', sans-serif;
+	color: F5F5F5;
+	line-height: 40px;
+	border-top: 5px dotted whitesmoke;
+	border-right: 5px dotted whitesmoke;
+	border-bottom: 5px dotted whitesmoke;
+	border-left: 5px dotted whitesmoke;
+}
+div{
+	text-align: center;
+	padding: 15px;
+	margin: 20px;
+}
+img{
+	width: 300px;
+	height:400px;
+}
